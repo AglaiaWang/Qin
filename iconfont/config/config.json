@@ -1,0 +1,11 @@
+{
+  "development": {
+    "username": "iconfont",
+    "password":"hds7kHgOa4J8EMqMsgjq",
+    "database": "iconfont",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "buildDatabases":false,
+    "logging":false
+  }
+}
